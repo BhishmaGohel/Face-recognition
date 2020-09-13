@@ -5,9 +5,10 @@ This repository is focused on the face detection using harcascade file. Here the
 2.Face Detection
 
 Here is the some output of the python file.
-<br><br><br><hr>
+<br><br><br>
 ![ss1](/images/face1.png)
 ![ss2](/images/face16.png)
 ![ss3](/images/face21.png)
 ![ss4](/images/face5.png)
 ![ss25](/images/face10.png)
+[![SC2 Video](https://img.youtube.com/vi/--b-9HrKK6w/0.jpg)](http://www.youtube.com/watch?v=--b-9HrKK6w)
